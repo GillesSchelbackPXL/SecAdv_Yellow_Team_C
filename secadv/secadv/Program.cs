@@ -67,9 +67,4 @@ namespace secadv
             Console.WriteLine("-----------------------");
         }
     }
-
-    public class FolderSettings
-    {
-        public Dictionary<string, string> TargetFolderLocations { get; set; }
-    }
 }
